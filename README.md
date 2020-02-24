@@ -12,6 +12,7 @@ Tested on:
 * Huawei E5186s-22a
 * Huawei B528s
 * Huawei E3531
+* Huawei E8372
 * (probably will work for other Huawei LTE devices too)
 
 Will NOT work on:
